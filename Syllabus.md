@@ -1,4 +1,5 @@
 Date	Day	Study Hours
+```
 3/19/2020	Thursday	Data Analytics with python
 3/20/2020	Friday	Statistics
 3/20/2020	Friday	Statistics
@@ -28,3 +29,4 @@ Date	Day	Study Hours
 4/1/2020	Wednesday	Statistics
 4/2/2020	Thursday	Data Analytics with python
 4/2/2020	Thursday	Data Analytics with python
+```
